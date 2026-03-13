@@ -84,3 +84,4 @@ metabolites identifies human FAM214 homolog medusa. *GeroScience* 44, 2195–221
 
 🎓 **Ph.D., Biology of Aging** — University of Southern California / Buck Institute for Research on Aging  
 🎓 **M.S., Biology** — UT San Antonio
+🎓 **B.S., Physics** — Texas Tech University
