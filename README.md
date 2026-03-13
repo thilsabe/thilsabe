@@ -45,8 +45,8 @@ diet-dependent lifespan and healthspan.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 **Computing:** Linux/HPC · Git/version control · shell scripting
 
-**Single-cell:** Seurat · Bioconductor · hdWGCNA · WGCNA  
-**RNA-seq:** STAR · HISAT2 · GSNAP · samtools · rMATS · Trim Galore · Trimmomatic · fastp · KMC  
+**Single-cell:** Seurat · Bioconductor · hdWGCNA  
+**RNA-seq:** STAR · HISAT2 · GSNAP · samtools · rMATS · Trim Galore · Trimmomatic · fastp · KMC · WGCNA
 **ML/Stats:** scikit-learn · TensorFlow · survival analysis · Mendelian randomization · causal inference 
 
 ---
